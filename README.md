@@ -2,6 +2,7 @@
 > ## **Therefore**, I am not responsible for any *losses* from **your miscalculated actions.**
 > ## **Thank you** for your patronage
 ---
+
 ```
 Reason to buyyy arr nfts:
 income for u and income fur me | ween ween
