@@ -1,7 +1,7 @@
 # **Amethyst Geode NFT**
 > #
 > ## I am **not a financial advisor**
-> ## **Therefore**, I am not responsible for any *losses* from **your miscalculations/wrong actions.**
+> ## **Therefore**, I am not responsible for any *losses* from **your miscalculated actions.**
 > #
 > ## **Thank you** for your patronage
 > #
@@ -66,7 +66,7 @@ awl of da misplellingz
 are becuz i uz da languazge cawwld: UwO
 ```
 ```
-Site Version: 1.0.0 (Major Updates, Minor Updates, Patches)
+Site Version: 1.0.1 (Major Updates, Minor Updates, Patches)
 ```
 ---
 > ## [OpenSea Collection](https://opensea.io/collection/amethystgeode)[.]()
