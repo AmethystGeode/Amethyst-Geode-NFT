@@ -1,9 +1,7 @@
 > ## I am **not a financial advisor**
 > ## **Therefore**, I am not responsible for any *losses* from **your miscalculated actions.**
 > ## **Thank you** for your patronage
-> #
 ---
-
 ```
 Reason to buyyy arr nfts:
 income for u and income fur me | ween ween
@@ -31,6 +29,9 @@ da commiswioin fee is 10% so yay
 buy low sell high (ur strat recomendded for mony yay)
 
 tjhe nfts are on the POLYGON BloccChain
+aslo tjhe nftweez hav rarwity
+
+u can onwy sees da nft rarwity bi purrcasing it
 
 btw thanks bye!
 ```
@@ -63,7 +64,7 @@ awl of da misplellingz
 are becuz i uz da languazge cawwld: UwO
 ```
 ```
-Site Version: 1.1.1 (Major Updates, Minor Updates, Patches)
+Site Version: 1.2.1 (Major Updates, Minor Updates, Patches)
 ```
 ---
 > ## [OpenSea Collection](https://opensea.io/collection/amethystgeode)[.]()
