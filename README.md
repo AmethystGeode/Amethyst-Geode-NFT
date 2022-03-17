@@ -1,9 +1,9 @@
 # **Amethyst Geode NFT**
 > #
-> ## I am **not a financial advisor**
-> ## **Therefore**, I am not responsible for any *losses* from **your miscalculated actions.**
+> # I am **not a financial advisor**
+> # **Therefore**, I am not responsible for any *losses* from **your miscalculated actions.**
 > #
-> ## **Thank you** for your patronage
+> # **Thank you** for your patronage
 > #
 ---
 
